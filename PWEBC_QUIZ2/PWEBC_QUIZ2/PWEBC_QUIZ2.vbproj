@@ -211,7 +211,11 @@
     <Compile Include="App_Start\Startup.Auth.vb" />
     <Compile Include="App_Start\WebApiConfig.vb" />
     <Compile Include="Controllers\AccountController.vb" />
+    <Compile Include="Controllers\CustomerServiceController.vb" />
+    <Compile Include="Controllers\FacilityController.vb" />
+    <Compile Include="Controllers\IconController.vb" />
     <Compile Include="Controllers\ManageController.vb" />
+    <Compile Include="Controllers\RoomController.vb" />
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -295,6 +299,10 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.vbhtml" />
     <Content Include="Views\Shared\Lockout.vbhtml" />
     <Content Include="Views\Shared\_LoginPartial.vbhtml" />
+    <Content Include="Views\Room\Index.vbhtml" />
+    <Content Include="Views\Icon\Index.vbhtml" />
+    <Content Include="Views\Facility\Index.vbhtml" />
+    <Content Include="Views\CustomerService\Index.vbhtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />

@@ -23,36 +23,34 @@ End Code
 
 <br />
 <div>
-    <h2>Berikut adalah fitur - fitur yang tersedia :</h2>
+    <h2>Feature</h2>
 </div>
 <br />
 
 <div class="row">
     <div class="col-md-3">
-        <h2>Check In Status</h2>
+        <h2>Icon</h2>
         <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            Icon page
         </p>
-        <p><a class="btn btn-default" href="/Home/About">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="/Icon/Index">Learn more &raquo;</a></p>
     </div>
 
     <div class="col-md-3">
         <h2>Facility</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="/Home/About">Learn more &raquo;</a></p>
+        <p>Facilities</p>
+        <p><a class="btn btn-default" href="/Facility/Index">Learn more &raquo;</a></p>
     </div>
 
     <div class="col-md-3">
         <h2>Rooms</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="/Home/About">Learn more &raquo;</a></p>
+        <p>Rooms</p>
+        <p><a class="btn btn-default" href="/Room/Index">Learn more &raquo;</a></p>
     </div>
 
     <div class="col-md-3">
         <h2>Customer Service</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="/Home/About">Learn more &raquo;</a></p>
+        <p>Customer service</p>
+        <p><a class="btn btn-default" href="/CustomerService/Index">Learn more &raquo;</a></p>
     </div>
 </div>

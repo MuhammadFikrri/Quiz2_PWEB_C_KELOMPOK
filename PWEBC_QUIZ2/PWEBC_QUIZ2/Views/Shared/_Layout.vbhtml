@@ -32,7 +32,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Date - PWEB C 0165 - 0052 - 0043</p> 
+            <p>&copy; @DateTime.Now.Date - PWEB C 0165 - 0052 - 0043</p>
         </footer>
     </div>
 
