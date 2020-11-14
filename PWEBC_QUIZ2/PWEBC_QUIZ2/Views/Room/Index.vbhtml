@@ -7,7 +7,7 @@ End Code
 <br />
 <br />
 <h2>Fasilitas yang didapat</h2>
-
+<img src="../../Img/hotel room.jpg" alt="" style="width:50%; display:block; margin-left:auto; margin-right:auto" />
 <br />
 <div>
     <h2>VVIP</h2>

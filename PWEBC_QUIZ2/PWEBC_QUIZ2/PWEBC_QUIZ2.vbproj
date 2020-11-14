@@ -273,6 +273,14 @@
     </None>
     <None Include="packages.config" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Img\ballroom.jpg" />
+    <Content Include="Img\bar.jpeg" />
+    <Content Include="Img\facilities.jpg" />
+    <Content Include="Img\gym.jpg" />
+    <Content Include="Img\hall.jpg" />
+    <Content Include="Img\hotel room.jpg" />
+    <Content Include="Img\restaurant.jpg" />
+    <Content Include="Img\surabaya.PNG" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
